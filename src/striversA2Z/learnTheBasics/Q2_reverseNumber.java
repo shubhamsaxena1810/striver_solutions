@@ -1,4 +1,4 @@
-package striversA2Z.learnTheBasics.lec4_Know_Basic_Math;
+package striversA2Z.learnTheBasics;
 
 import java.io.BufferedReader;
 import java.io.IOException;

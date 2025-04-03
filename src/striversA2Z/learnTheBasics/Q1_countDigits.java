@@ -1,4 +1,4 @@
-package striversA2Z.learnTheBasics.lec4_Know_Basic_Math;
+package striversA2Z.learnTheBasics;
 
 
 //{ Driver Code Starts
