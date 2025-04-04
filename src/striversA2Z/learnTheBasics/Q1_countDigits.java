@@ -3,9 +3,9 @@ package striversA2Z.learnTheBasics;
 
 //{ Driver Code Starts
 //Initial Template for Java
-
-import java.io.*;
-import java.util.*;
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStreamReader;
 
 class Q1_countDigits {
 	
