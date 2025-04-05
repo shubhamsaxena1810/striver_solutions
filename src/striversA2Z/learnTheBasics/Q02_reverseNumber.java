@@ -4,7 +4,7 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-public class Q2_reverseNumber {
+public class Q02_reverseNumber {
 	
 	public static int reverse(int x) {
         int i = x>-1? x: x*(-1);

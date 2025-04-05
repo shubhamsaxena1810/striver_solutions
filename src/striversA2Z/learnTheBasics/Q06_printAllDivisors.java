@@ -1,6 +1,6 @@
 package striversA2Z.learnTheBasics;
 
-public class Q6_printAllDivisors {
+public class Q06_printAllDivisors {
 
 	public static long sumOfDivisors(int n) {
         // code here

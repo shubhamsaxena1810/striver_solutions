@@ -2,7 +2,7 @@ package striversA2Z.arrays.easy;
 
 import java.util.ArrayList;
 
-public class Q9_union2SortedDuplicates {
+public class Q09_union2SortedDuplicates {
 	
 	public static ArrayList<Integer> findUnion(int a[], int b[]) {
         // add your code here

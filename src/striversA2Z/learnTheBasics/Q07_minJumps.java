@@ -1,6 +1,6 @@
 package striversA2Z.learnTheBasics;
 
-public class Q7_minJumps {
+public class Q07_minJumps {
 	
 	static int minJumps(int[] arr) {
         int n = arr.length;

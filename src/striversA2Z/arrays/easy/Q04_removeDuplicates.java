@@ -1,6 +1,6 @@
 package striversA2Z.arrays.easy;
 
-public class Q4_removeDuplicates {
+public class Q04_removeDuplicates {
 	
 	public static int removeDuplicates(int[] nums) {
 		int i=0;

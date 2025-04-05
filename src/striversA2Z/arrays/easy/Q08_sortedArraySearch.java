@@ -1,6 +1,6 @@
 package striversA2Z.arrays.easy;
 
-public class Q8_sortedArraySearch {
+public class Q08_sortedArraySearch {
 	static int binarySearch(int arr[], int k){
         int low = 0;
         int high = arr.length -1;

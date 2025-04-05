@@ -1,6 +1,6 @@
 package striversA2Z.learnTheBasics;
 
-public class Q3_palindromeNumber {
+public class Q03_palindromeNumber {
 	
 	public static boolean isPalindrome(int x) {
         if(x<0){

@@ -1,7 +1,6 @@
 package striversA2Z.learnTheBasics;
 
-public class Q5_armstrongNumber {
-	
+public class Q05_armstrongNumber {
 	public static boolean isArmstrong(int num) {
 		int len = String.valueOf(num).length();
 		

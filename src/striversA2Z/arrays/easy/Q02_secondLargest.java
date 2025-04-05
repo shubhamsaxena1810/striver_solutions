@@ -1,6 +1,6 @@
 package striversA2Z.arrays.easy;
 
-public class Q2_secondLargest {
+public class Q02_secondLargest {
 
 	public static int getSecondLargest(int[] arr) {
         // Code Here

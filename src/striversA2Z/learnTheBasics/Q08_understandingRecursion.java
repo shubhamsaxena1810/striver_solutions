@@ -1,6 +1,6 @@
 package striversA2Z.learnTheBasics;
 
-public class Q8_understandingRecursion {
+public class Q08_understandingRecursion {
 	private static void printNos(int n) {
 		if(n==0) return;
 		

@@ -1,6 +1,6 @@
 package striversA2Z.arrays.easy;
 
-public class Q6_rotateArrayByN {
+public class Q06_rotateArrayByN {
 
 	private static void reverse(int[] nums, int start, int end) {
 		while(start < end){

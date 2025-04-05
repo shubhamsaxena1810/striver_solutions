@@ -1,6 +1,6 @@
 package striversA2Z.arrays.easy;
 
-public class Q7_moveZeroesToEnd {
+public class Q07_moveZeroesToEnd {
 	
 	public static void moveZeroes(int[] nums) {
         int j=0;

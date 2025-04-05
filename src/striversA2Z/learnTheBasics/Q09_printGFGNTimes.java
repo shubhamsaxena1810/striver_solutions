@@ -1,6 +1,6 @@
 package striversA2Z.learnTheBasics;
 
-public class Q9_printGFGNTimes {
+public class Q09_printGFGNTimes {
 
 	private static void printGfg(int N) {
 		if(N==0) return;

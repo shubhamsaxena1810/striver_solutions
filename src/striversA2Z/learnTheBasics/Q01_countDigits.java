@@ -7,7 +7,7 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-class Q1_countDigits {
+class Q01_countDigits {
 	
 	static int evenlyDivides(int N){
 	     // code here

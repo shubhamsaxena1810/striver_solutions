@@ -1,6 +1,6 @@
 package striversA2Z.learnTheBasics;
 
-public class Q4_lcmAndGcd {
+public class Q04_lcmAndGcd {
 	private static Long gcd(Long a,Long b){
         if(a==b){
             return a;

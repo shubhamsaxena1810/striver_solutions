@@ -1,6 +1,6 @@
 package striversA2Z.arrays.easy;
 
-public class Q1_largestElement {
+public class Q01_largestElement {
 
 	public static int largest(int[] arr) {
         int max = Integer.MIN_VALUE;

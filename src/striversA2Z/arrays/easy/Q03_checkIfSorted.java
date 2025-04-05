@@ -1,6 +1,6 @@
 package striversA2Z.arrays.easy;
 
-public class Q3_checkIfSorted {
+public class Q03_checkIfSorted {
 
 	public static boolean check(int[] nums) {
         boolean errorCheck = false;
